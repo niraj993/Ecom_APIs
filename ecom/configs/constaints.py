@@ -1,0 +1,18 @@
+MESSAGE = "message"
+STATUS_CODE = "status_code"
+ERROR = "error"
+MESSAGE = "message"
+DATA = "data"
+USER_ID = "user_id"
+USER = "user"
+GET_METHOD = "GET"
+REFRESH_TOKEN = "Refresh_Token"
+ACCESS_TOKEN = "Access_Token"
+
+EMAIL = "email"
+PASSWORD = "password"
+
+FIRST_NAME = "first_name"
+LAST_NAME = "last_name"
+PHONE = "phone"
+OTP = "otp"

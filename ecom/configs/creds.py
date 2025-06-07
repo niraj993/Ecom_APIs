@@ -1,0 +1,14 @@
+DB_HOST = "localhost"
+DB_PASSWORD = "root"
+DB_USERNAME = "root"
+MYSQL_DB_PORT = 3306
+DB_NAME = "ecom"
+
+
+
+ACCESS_TOKEN_MINUTES = 60
+REFRESH_TOKEN_DAY = 1
+OTP_EXP_MIN = 50
+
+EMAIL_HOST_USER = "nk4305572@gmail.com"
+EMAIL_HOST_PASSWORD = "etot dckf hchi kweu"
